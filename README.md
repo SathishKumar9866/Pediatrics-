@@ -7,10 +7,10 @@ This documentation provides a comprehensive guide to setting up your Windows 11 
 
 1. [Prerequisites](#prerequisites)
 2. [Setting Up the Development Environment](#setting-up-the-development-environment)
-   - [1. Install Flutter SDK](#1-install-flutter-sdk)
-   - [2. Install Android Studio](#2-install-android-studio)
+   - [1. Install Flutter SDK](#1-install-flutter-sdk) (Y)
+   - [2. Install Android Studio](#2-install-android-studio) (Y)
    - [3. Install Visual Studio Code](#3-install-visual-studio-code)
-   - [4. Configure Environment Variables](#4-configure-environment-variables)
+   - [4. Configure Environment Variables](#4-configure-environment-variables) (Y)
    - [5. Set Up Android Emulator or Physical Device](#5-set-up-android-emulator-or-physical-device)
 3. [Creating Your First Flutter Project](#creating-your-first-flutter-project)
 4. [Building and Testing for Android](#building-and-testing-for-android)
