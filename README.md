@@ -1,5 +1,5 @@
 ﻿# Pediatrics-
-# Building Android and iOS Pediatric Applications on Windows 11
+# Building Android and iOS Pediatric Applications 
 
 This documentation provides a comprehensive guide to setting up your Windows 11 environment for developing Android and iOS applications tailored for pediatric use. It covers the installation and configuration of essential tools such as Flutter, Android Studio, and Visual Studio Code (VS Code).
 
